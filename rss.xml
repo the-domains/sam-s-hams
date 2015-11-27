@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Sam's Hams]]></title>
+        <description><![CDATA[Sam's Hams]]></description>
+        <link>https://thegrid.ai/sam-s-hams/</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Fri, 27 Nov 2015 15:57:25 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/sam-s-hams/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/59f643bb-3faf-499c-ac86-34d19912b182.jpg">]]></description>
+            <link>https://thegrid.ai/sam-s-hams/6ff9e237-6b41-4c47-a119-32b4a842ee8d/index.html</link>
+            <guid isPermaLink="false">6ff9e237-6b41-4c47-a119-32b4a842ee8d</guid>
+            <pubDate>Fri, 27 Nov 2015 15:55:16 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/78bedcda-42d8-4435-95de-dd7f325f962c.png">]]></description>
+            <link>https://thegrid.ai/sam-s-hams/053dae04-f389-4c3d-9576-13d49adce8f2/index.html</link>
+            <guid isPermaLink="false">053dae04-f389-4c3d-9576-13d49adce8f2</guid>
+            <pubDate>Fri, 27 Nov 2015 15:52:36 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
