@@ -1,0 +1,28 @@
+name: "Sam's Hams"
+favicon: null
+layout_spectrum: 0.8040004859212786
+typography_spectrum: 0.7321976323146373
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
+  brandStrength: 0.45938664535060525
+  lightness: 0.08568517258390784
+  saturation: 0.8876074871513993
+  rhythmicContrast: 0.4118130812421441
+purpose: []
