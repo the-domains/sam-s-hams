@@ -1,7 +1,7 @@
 name: "Sam's Hams"
 favicon: null
-layout_spectrum: 0.8040004859212786
-typography_spectrum: 0.7321976323146373
+layout_spectrum: 0.25361
+typography_spectrum: 0.75542
 title: "Sam's Hams"
 cta:
   domain: null
@@ -22,8 +22,8 @@ color:
     - '#f8a99c'
     - '#fbcbb8'
     - '#f2736f'
-  brandStrength: 0.45938664535060525
-  lightness: 0.08568517258390784
-  saturation: 0.8876074871513993
-  rhythmicContrast: 0.4118130812421441
+  brandStrength: 1
+  lightness: 0.75
+  saturation: 0.8125
+  rhythmicContrast: 0.75
 purpose: []
