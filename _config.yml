@@ -2,6 +2,7 @@ name: "Sam's Hams"
 favicon: null
 layout_spectrum: 0.8040004859212786
 typography_spectrum: 0.7321976323146373
+title: "Sam's Hams"
 cta:
   domain: null
   bucket: null
